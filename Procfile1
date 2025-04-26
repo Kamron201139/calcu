@@ -1,2 +1,3 @@
 worker: python calcu.py
 python calcu.py
+worker: python main.py
